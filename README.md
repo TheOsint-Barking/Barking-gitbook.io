@@ -1,24 +1,3 @@
----
-cover: >-
-  .gitbook/assets/AlbedoBase_XL_A_darkthemed_professional_yet_playful_header_ima_1
-  (1).jpg
-coverY: 93.36030341340076
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🐶 Bienvenido
 
 ¡Bienvenido al _Kit de Herramientas OSINT y Espionaje_! Este repositorio es una colección que suelo utilizar de herramientas, recursos y frameworks para la Inteligencia de Fuentes Abiertas (OSINT), técnicas de espionaje y análisis de inteligencia.
