@@ -19,4 +19,4 @@ Las máquinas virtuales llevan a cabo la virtualización de un sistema informát
 5. **Configuración de VPN** Las redes privadas virtuales no son una solución perfecta para el anonimato. Es importante tener en cuenta que las VPN te ofrecen privacidad, no anonimato. recomiendo Proton VPN o Mullvad VPN
 6. **Administrador de contraseñas** recomiendo KeePassXC, Bitwarden o Proton Pass
 7. Maquinas virtuales para Windows: VirtualBox y Kali WSL (si tu equipo cuenta con los requisitos)
-8. entornos que recomiendo: Kali Linux, Debian, Pop Os
+8. entornos que recomiendo: Kali Linux, Debian, Pop Os, Trace Labs
