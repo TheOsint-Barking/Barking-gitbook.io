@@ -2,9 +2,10 @@
 
 **Navegadores**
 
-* Firefox ([mozilla.org](http://mozilla.org/))
+* Firefox [mozilla.org](http://mozilla.org/)
+* Librewolf [https://librewolf.net/](https://librewolf.net/)
 * Chromium [https://www.chromium.org/getting-involved/download-chromium/](https://www.chromium.org/getting-involved/download-chromium/)
-* Tor Browser ([torproject.org](http://torproject.org/))
+* Tor Browser [torproject.org](http://torproject.org/)
 
 **Pasos para configurar Firefox**
 
@@ -67,7 +68,6 @@
 * save to pocket
 * privacy bagner
 * obsidian mind
-* AppFlowy
 * Traductor de DeepL
 
 #### Marcadores (Favoritos) de paginas y herramientas útiles
